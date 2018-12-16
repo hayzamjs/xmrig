@@ -15,7 +15,7 @@
 	mov	 rax, QWORD PTR [rcx+48]
 	mov	 r9, rcx
 	xor	 rax, QWORD PTR [rcx+16]
-	mov	 esi, 524288
+	mov	 esi, 262144
 	mov	 r8, QWORD PTR [rcx+32]
 	mov	 r13d, -2147483647
 	xor	 r8, QWORD PTR [rcx]
